@@ -1,0 +1,14 @@
+body {
+	background-color: rgb(255, 255, 255);
+	color:rgb(244, 134, 0);
+	text-align: center
+}
+
+#cat-container {
+	margin-top: 30px;
+	margin-bottom: 90px;
+}
+
+#cat-container img {
+	width: 400px;
+}
