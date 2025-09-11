@@ -1,7 +1,13 @@
 body {
 	background-color: rgb(255, 255, 255);
 	color:rgb(244, 134, 0);
-	text-align: center
+	text-align: center;
+	background-image: url("images/bababoi.jpg");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position: center;
+}
+	
 }
 
 #cat-container {
