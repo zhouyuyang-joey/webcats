@@ -1,14 +1,25 @@
+header {
+    margin-bottom: 40px;
+}
+
+h1 {
+    font-family: 'Fredoka One', cursive;
+    font-size: 4rem;
+    color: #d33682;
+    text-shadow: 2px 2px 0 #fff, 4px 4px 0 #cb4b16;
+    margin: 0;
+}
+
 body {
-	background-color: rgb(255, 255, 255);
-	color:rgb(244, 134, 0);
+	background: linear-gradient(to bottom, #e1eec3, #f05053);
+	color:rgb(0, 0, 0);
 	text-align: center;
-	background-image: url("images/bababoi.jpg");
-	background-repeat:no-repeat;
+	/* background-image: url("images/bababoi.jpg");
+	background-repeat:repeat;
 	background-size:cover;
-	background-position: center;
+	background-position: center; */
 }
 	
-}
 
 #cat-container {
 	margin-top: 30px;
@@ -17,4 +28,5 @@ body {
 
 #cat-container img {
 	width: 400px;
+	transform: rotate(3deg);
 }
